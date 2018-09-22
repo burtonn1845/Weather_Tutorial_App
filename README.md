@@ -1,0 +1,1 @@
+Understanding Ionic and Angular formatting
